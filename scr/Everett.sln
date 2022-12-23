@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Everett.Interop", "Everett.Interop\Everett.Interop.csproj", "{339B8545-C632-470E-B940-5B6252293FA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Everett.Interop.Specs", "Everett.Interop.Specs\Everett.Interop.Specs.csproj", "{65CE1ADE-5E0C-4409-99CD-A700E4C331CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{339B8545-C632-470E-B940-5B6252293FA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{339B8545-C632-470E-B940-5B6252293FA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{339B8545-C632-470E-B940-5B6252293FA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{339B8545-C632-470E-B940-5B6252293FA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65CE1ADE-5E0C-4409-99CD-A700E4C331CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65CE1ADE-5E0C-4409-99CD-A700E4C331CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65CE1ADE-5E0C-4409-99CD-A700E4C331CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65CE1ADE-5E0C-4409-99CD-A700E4C331CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AD12338-0616-4083-8C7B-785C51DBEE2A}
+	EndGlobalSection
+EndGlobal
